@@ -1,4 +1,4 @@
-# RocketSeatBootCamp - EighthLesson ReactJS ReactHooks
+# RocketSeatBootCamp - GoBarber Front End - ReactNative w/Redux (Flux Architecture) & Hooks 
 
 😝 Hooks are too cool🍕 for school 😎
 
@@ -71,5 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-# gobarber_front_end_web
 # gobarber_front_end_web
