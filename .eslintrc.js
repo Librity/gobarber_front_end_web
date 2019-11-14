@@ -24,6 +24,7 @@ module.exports = {
     'react-hooks',
     'prettier',
     'better-styled-components',
+    'babel-plugin-root-import',
   ],
   rules: {
     'prettier/prettier': 'error',
