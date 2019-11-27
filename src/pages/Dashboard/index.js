@@ -32,7 +32,7 @@ export default function Dashboard() {
 
   useEffect(() => {
     const loadSchedule = async () => {
-      const response = await api.get('schedules', {
+      const response = await api.get('/schedules', {
         params: { date },
       });
 

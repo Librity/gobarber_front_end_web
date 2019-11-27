@@ -24,7 +24,7 @@ export default function Notifications() {
 
   useEffect(() => {
     const loadNotifications = async () => {
-      const response = await api.get('notifications');
+      const response = await api.get('/notifications');
 
       const data = response.data.map(notification => ({
         ...notification,
